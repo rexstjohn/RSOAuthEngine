@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AF54AE9D-CE9B-46D9-AF0D-891FAB8D58C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YelpDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB0C914D-64A0-44CF-9986-38DE2666F863</key>
+		<string>ssh://github.com/rexstjohn/RSOAuthEngine.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YelpDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB0C914D-64A0-44CF-9986-38DE2666F863</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/rexstjohn/RSOAuthEngine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB0C914D-64A0-44CF-9986-38DE2666F863</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB0C914D-64A0-44CF-9986-38DE2666F863</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RSOAuthEngine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
